@@ -1,0 +1,20 @@
+{
+    "make": "Ford",
+    "rcar": [
+        {
+            "name": "Mustang Match 1",
+            "year": "2020-12-22",
+            "power": "Internal Combustion Engine"
+        },
+        {
+            "name": "Mustang Shelby GT500",
+            "year": "2022-08-22",
+            "power": "Electric Drive"
+        },
+        {
+            "name": "Ford GT MK11",
+            "year": "2022-02-12",
+            "power": "Hybrid Drive"
+        }
+    ]
+}
