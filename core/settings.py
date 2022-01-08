@@ -19,7 +19,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'api',
+    'dj_paystack',
     'rest_framework',
+    'tastypie',
+    'tastie',
 ]
 
 MIDDLEWARE = [
